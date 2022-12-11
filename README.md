@@ -7,3 +7,5 @@ Practicas realizadas de POO
 - Si se desea se puede omitar el Cmake y compilar el archivo principal 
 = Cmakelist.txt contiende lo necesario para compilar si en caso se usa CLion
 - Se puede usar cmake para construir el proyecto o compilarlo manualmente
+
+![](https://drive.google.com/file/d/1kLIpTILLfrWfltLpnoEIXflH9DA3K48V/view?usp=share_link){width='500px'}
